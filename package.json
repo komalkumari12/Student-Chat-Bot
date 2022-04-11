@@ -1,0 +1,22 @@
+{
+  "name": "rashid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-bot-api-v3": "^3.0.8",
+    "alexa-bot-api-v4": "^4.1.4",
+    "clever-bot-api": "^1.4.2",
+    "express": "^4.17.3",
+    "http": "0.0.1-security",
+    "mongoose": "^6.2.3",
+    "path": "^0.12.7",
+    "pug": "^3.0.2",
+    "rivescript": "^2.2.0"
+  }
+}
